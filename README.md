@@ -25,6 +25,10 @@ Aplicação web desenvolvida em **React.js** que consome a API do [The Movie Dat
 
 ---
 
+Link para ter acesso ao site: [Clique Aqui](https://prime-flix-lilac-seven.vercel.app/)
+
+---
+
 ## 📦 Como rodar o projeto
 
 ```bash
