@@ -39,3 +39,11 @@ npm install
 
 # Execute o projeto
 npm start
+```
+---
+
+📸 Capturas de tela
+
+![trabalho3](https://github.com/user-attachments/assets/8a677932-96e9-4a04-bb11-26ab1e4ccee8)
+![trabalho2](https://github.com/user-attachments/assets/ef50f383-f4bd-4c79-ac76-b7e97e69ae52)
+![trabalho1](https://github.com/user-attachments/assets/ab2a19c0-cd60-4ecc-abc3-d9afac0d6e81)
